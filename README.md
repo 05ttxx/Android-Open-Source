@@ -1,6 +1,11 @@
 Android-Open-Source
 ===================
 
+Some useful libraries, samples, tools & Open Source apps for Android
+https://github.com/longjl/AndroidElementals   
+
+
+
 Android 开源资源
 
 
